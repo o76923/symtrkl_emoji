@@ -24,6 +24,8 @@ My first full emoji set, [NeoBot!](https://github.com/SymTrkl/emoji/releases/tag
 
 [puffer hug](https://github.com/SymTrkl/emoji/releases/tag/puffer_hug) - get in there and hug the pufferfish from Stardew Valley
 
+[swearing neocritters](https://github.com/SymTrkl/emoji/releases/tag/swearing_critters) - sometimes you gotta just say some cusses
+
 [sylveon hugs](https://github.com/SymTrkl/emoji/releases/tag/sylveon_hugs) - neocritters hugging Sugar's neosylveon
 
 [this is fine](https://github.com/SymTrkl/emoji/releases/tag/this_is_fine) - the neocritter version of the "this is fine" dog
@@ -57,3 +59,5 @@ These emoji are based on:
 [NeoMouse](https://git.gay/av70/neomouse/) by Wep (CC BY-NC-SA 4.0 license)
 
 [Neocatraxx](https://codeberg.org/o76923/neomoji) by James (CC BY-NC-SA 4.0 license)
+
+[Devicon](https://devicon.dev/) by Konpa (MIT license)
